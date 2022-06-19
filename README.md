@@ -14,3 +14,6 @@ Be sure to use all lowercase letters when filtering, all of the data is in lower
 However, when you input "ca" in lowercase, you can see a table displaying all of the sightings that took place in California, as shown below:
 
 ![LOWERCASE IMAGE](https://github.com/AbeSchnake/UFOs/blob/main/static/images/lowercase.png)
+
+## Summary
+A major drawback of this web page is that the search criteria are case-sensitive. I'm sure there's a way to make sure the criteria are not case-sensitive, and adding that feature would enhance the user experience. A second feature that would improve the website would be if the table of UFO information included a link to the source of the information. Allowing users to access the news reports or firsthand witness accouts would aid the more curious UFOlogists in doing their own further research.
