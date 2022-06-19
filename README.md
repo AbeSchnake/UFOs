@@ -9,7 +9,7 @@ In order to perform a search, you must input your search criteris into one of th
 
 Be sure to use all lowercase letters when filtering, all of the data is in lowercase and the filter is case-sensitive. When the data is filtered by inputting "CA" into the State box, the result is a blank table, as shown below:
 
-UPPERCASE IMAGE
+![UPPERCASE IMAGE](https://github.com/AbeSchnake/UFOs/blob/main/static/images/uppercase.png)
 
 However, when you input "ca" in lowercase, you can see a table displaying all of the sightings that took place in California, as shown below:
 
