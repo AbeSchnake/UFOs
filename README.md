@@ -13,4 +13,4 @@ Be sure to use all lowercase letters when filtering, all of the data is in lower
 
 However, when you input "ca" in lowercase, you can see a table displaying all of the sightings that took place in California, as shown below:
 
-LOWERCASE IMAGE
+![LOWERCASE IMAGE](https://github.com/AbeSchnake/UFOs/blob/main/static/images/lowercase.png)
